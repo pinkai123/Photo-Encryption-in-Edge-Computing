@@ -1,0 +1,9 @@
+aead==0.2
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+matplotlib==3.0.0
+numpy==1.15.1
+opencv-python==3.4.3.18
+paramiko==2.5.0
+schedule==0.6.0
+scp==0.13.2
