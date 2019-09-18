@@ -1,6 +1,6 @@
 
-<img src="Photo-Encryption-Edge-Computing/test.jpg">
-![test](https://github.com/pinkai123/Photo-Encryption-in-Edge-Computing/blob/master/test.jpg)
+<img src="Photo-Encryption-Edge-Computing/test.png">
+![test](https://github.com/pinkai123/Photo-Encryption-in-Edge-Computing/blob/master/test.png)
 
 
 SSH needs to be setup first before running any of the code
