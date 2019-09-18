@@ -1,3 +1,8 @@
+
+<img src="Photo-Encryption-Edge-Computing/test.jpg">
+![test](https://github.com/pinkai123/Photo-Encryption-in-Edge-Computing/blob/master/test.jpg)
+
+
 SSH needs to be setup first before running any of the code
 There are 3 python scripts.
 
